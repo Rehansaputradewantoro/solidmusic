@@ -17,10 +17,10 @@ class Configs:
     BOT_TOKEN = getenv("BOT_TOKEN", "123:abc")
     OWNER_ID = int(getenv("OWNER_ID", "0123"))
     SESSION = getenv("SESSION", "session")
-    CHANNEL_LINK = getenv("CHANNEL_LINK", "https://t.me/solidprojects")
-    GROUP_LINK = getenv("GROUP_LINK", "https://t.me/solidprojects_chat")
-    UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/DoellBarr/solidmusic")
-    AUTO_LEAVE = int(getenv("AUTO_LEAVE", "1800"))
+    CHANNEL_LINK = getenv("CHANNEL_LINK", "https://t.me/Revanstoreya")
+    GROUP_LINK = getenv("GROUP_LINK", "https://t.me/ZoneDangerSex")
+    UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://t.me/Revanstoreya")
+    AUTO_LEAVE = int(getenv("AUTO_LEAVE", "18000"))
 
 
 config = Configs()
